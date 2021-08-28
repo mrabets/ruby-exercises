@@ -24,4 +24,4 @@ def stock_picker(stock_prices)
   [best_day_to_buy, best_day_to_sell]
 end
 
-print stock_picker([17,3,6,9,15,8,6,1,10])
+print stock_picker([20,2,7,13,9,1,5,11,1])
